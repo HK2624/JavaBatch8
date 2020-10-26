@@ -14,7 +14,7 @@ public class WhileMoreExample {
 		
 		while (day.equals("Saturday")) {
 			System.out.println("My favorite java class");// infinite printe. days always equal saturday
-			day="Sunday";
+			day="Sunday";//to stop the infinite printing we changed value
 		}
 		
 		boolean isItBreakTime=true;
