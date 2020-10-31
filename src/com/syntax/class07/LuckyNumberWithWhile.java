@@ -23,6 +23,7 @@ public class LuckyNumberWithWhile {
 				System.out.println("Please enter any number from range 1 to 100");
 				numberFromUser=scan.nextInt();
 	  }
+			System.out.println("You guessed the number");
 	}
 
 }
